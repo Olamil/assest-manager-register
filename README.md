@@ -42,3 +42,7 @@ A centralized asset inventory suitable for internal IT governance, cybersecurity
 
 This project was created as part of my cybersecurity portfolio to demonstrate practical IT asset management, documentation, and governance skills.
 
+-------
+Habeebullah Abdulwahab · Aspiring Cybersecurity Professional
+GitHub: github.com/Olamil · LinkedIn: linkedin.com/in/abdulwahabhabeeb
+
