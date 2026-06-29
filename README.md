@@ -38,7 +38,7 @@ A centralized asset inventory suitable for internal IT governance, cybersecurity
 
 ## Repository Contents
 
-- ABC_Financial_Services_Asset_Register.xlsx
+- ABC Financial Service Ltd.xlsx
 
 This project was created as part of my cybersecurity portfolio to demonstrate practical IT asset management, documentation, and governance skills.
 
