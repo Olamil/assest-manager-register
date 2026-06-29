@@ -35,3 +35,10 @@ The project follows cybersecurity asset management principles by documenting own
 ## Project Outcome
 
 A centralized asset inventory suitable for internal IT governance, cybersecurity audits, and ISO 27001-style asset management practices.
+
+## Repository Contents
+
+- ABC_Financial_Services_Asset_Register.xlsx
+
+This project was created as part of my cybersecurity portfolio to demonstrate practical IT asset management, documentation, and governance skills.
+
